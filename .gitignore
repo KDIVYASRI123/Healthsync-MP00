@@ -1,7 +1,30 @@
-__pycache__/
-node_modules/
+
 /backend/data/*
 /backend/model.pkl
 /backend/symptoms.json
+
+
+
+
+
+
+
+
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+backend/venv/
+
+# Node
+node_modules/
+
+# Build files
+frontend/build/
+
+# Environment variables
 .env
