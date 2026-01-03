@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+/backend/data/*
+/backend/model.pkl
+/backend/symptoms.json
+*.pyc
+.env

@@ -1,0 +1,22 @@
+{
+  "Migraine": {
+    "symptoms": ["Headache", "Nausea", "Light sensitivity"],
+    "causes": ["Genetic factors", "Stress", "Hormonal changes"],
+    "treatments": ["Pain relievers", "Rest", "Hydration"],
+    "preventive": ["Sleep hygiene", "Avoid triggers", "Regular exercise"],
+    "links": [
+      "https://www.who.int/news-room/fact-sheets/detail/migraine",
+      "https://medlineplus.gov/migraine.html"
+    ]
+  },
+  "Diabetes": {
+    "symptoms": ["Frequent urination", "Excessive thirst", "Fatigue"],
+    "causes": ["Insulin resistance", "Genetics", "Obesity"],
+    "treatments": ["Insulin therapy", "Medication", "Diet & exercise"],
+    "preventive": ["Healthy diet", "Regular exercise", "Maintain healthy weight"],
+    "links": [
+      "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+      "https://medlineplus.gov/diabetes.html"
+    ]
+  }
+}

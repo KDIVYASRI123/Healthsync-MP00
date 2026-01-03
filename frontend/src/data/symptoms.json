@@ -1,0 +1,1058 @@
+{
+  "itching": {
+    "en": "Itching",
+    "hi": "खुजली",
+    "te": "దురద",
+    "ta": "அரிப்பு",
+    "kn": "ಕೆರವು",
+    "es": "Picazón"
+  },
+  "skin_rash": {
+    "en": "Skin Rash",
+    "hi": "त्वचा पर दाने",
+    "te": "చర్మంపై దద్దుర్లు",
+    "ta": "தோல் சிரங்கு",
+    "kn": "ಚರ್ಮದ ರಾಶ್",
+    "es": "Erupción cutánea"
+  },
+  "nodal_skin_eruptions": {
+    "en": "Nodal Skin Eruptions",
+    "hi": "त्वचा पर गाँठें",
+    "te": "చర్మంపై ముడి ఏర్పడటం",
+    "ta": "தோலில் முடிச்சுகள்",
+    "kn": "ಚರ್ಮದ ಗುಳ್ಳೆಗಳು",
+    "es": "Erupciones nodulares"
+  },
+  "continuous_sneezing": {
+    "en": "Continuous Sneezing",
+    "hi": "लगातार छींक आना",
+    "te": "నిరంతర తుమ్ములు",
+    "ta": "தொடர்ச்சியான தும்மல்",
+    "kn": "ನಿರಂತರ ಶೆಟ್ಟೆ",
+    "es": "Estornudos continuos"
+  },
+  "shivering": {
+    "en": "Shivering",
+    "hi": "कंपकंपी",
+    "te": "వణుకు",
+    "ta": "நடுக்கம்",
+    "kn": "ಕಂಪನ",
+    "es": "Escalofríos"
+  },
+  "chills": {
+    "en": "Chills",
+    "hi": "ठंड लगना",
+    "te": "చలి",
+    "ta": "சிலிர்ப்பு",
+    "kn": "ಥಡ್ಡಿ",
+    "es": "Escalofríos intensos"
+  },
+  "joint_pain": {
+    "en": "Joint Pain",
+    "hi": "जोड़ों में दर्द",
+    "te": "కీళ్ల నొప్పి",
+    "ta": "மூட்டு வலி",
+    "kn": "ಸಂಧಿ ನೋವು",
+    "es": "Dolor articular"
+  },
+  "stomach_pain": {
+    "en": "Stomach Pain",
+    "hi": "पेट दर्द",
+    "te": "కడుపు నొప్పి",
+    "ta": "வயிற்று வலி",
+    "kn": "ಹೊಟ್ಟೆನೋವು",
+    "es": "Dolor de estómago"
+  },
+  "acidity": {
+    "en": "Acidity",
+    "hi": "अम्लता",
+    "te": "అమ్లత్వం",
+    "ta": "அமிலத்தன்மை",
+    "kn": "ಆಮ್ಲತೆ",
+    "es": "Acidez"
+  },
+  "ulcers_on_tongue": {
+    "en": "Ulcers on Tongue",
+    "hi": "जीभ पर छाले",
+    "te": "జిహ్వపై పుండ్లు",
+    "ta": "நாக்கில் புண்கள்",
+    "kn": "ಜಿಹ್ವೆಯ ಗಾಯಗಳು",
+    "es": "Úlceras en la lengua"
+  },
+  "muscle_wasting": {
+    "en": "Muscle Wasting",
+    "hi": "मांसपेशियों का क्षय",
+    "te": "కండరాల క్షీణత",
+    "ta": "தசை சுருக்கம்",
+    "kn": "ಸ್ನಾಯು ಕ್ಷಯ",
+    "es": "Desgaste muscular"
+  },
+  "vomiting": {
+    "en": "Vomiting",
+    "hi": "उल्टी",
+    "te": "వాంతులు",
+    "ta": "வாந்தி",
+    "kn": "ಓಕರು",
+    "es": "Vómito"
+  },
+  "burning_micturition": {
+    "en": "Burning Micturition",
+    "hi": "पेशाब में जलन",
+    "te": "మూత్రం సమయంలో మంట",
+    "ta": "சிறுநீர் கழிக்கும் போது எரிச்சல்",
+    "kn": "ಮೂತ್ರವಿಸರ್ಜನೆ ಸಂದರ್ಭದಲ್ಲಿ ಉರಿಯೂತ",
+    "es": "Ardor al orinar"
+  },
+  "spotting_urination": {
+    "en": "Spotting Urination",
+    "hi": "पेशाब में दाग",
+    "te": "మూత్రంలో మచ్చలు",
+    "ta": "சிறுநீரில் துளிகள்",
+    "kn": "ಮೂತ್ರದಲ್ಲಿ ಮಚ್ಚೆಗಳು",
+    "es": "Manchas en la orina"
+  },
+  "fatigue": {
+    "en": "Fatigue",
+    "hi": "थकान",
+    "te": "దౌర్భల్యం",
+    "ta": "சோர்வு",
+    "kn": "ದೌರ್ಬಲ್ಯ",
+    "es": "Fatiga"
+  },
+  "weight_gain": {
+    "en": "Weight Gain",
+    "hi": "वजन बढ़ना",
+    "te": "బరువు పెరగడం",
+    "ta": "எடை கூடுதல்",
+    "kn": "ತೂಕ ಹೆಚ್ಚಳ",
+    "es": "Aumento de peso"
+  },
+  "anxiety": {
+    "en": "Anxiety",
+    "hi": "चिंता",
+    "te": "ఆందోళన",
+    "ta": "கவலை",
+    "kn": "ಆತಂಕ",
+    "es": "Ansiedad"
+  },
+  "cold_hands_and_feets": {
+    "en": "Cold Hands and Feet",
+    "hi": "हाथ-पैर ठंडे होना",
+    "te": "చేతులు, కాళ్లు చల్లబడటం",
+    "ta": "கைகள், கால்கள் குளிர்வது",
+    "kn": "ಕೈ ಕಾಲು ತಣ್ಣಗಾಗುವುದು",
+    "es": "Manos y pies fríos"
+  },
+  "mood_swings": {
+    "en": "Mood Swings",
+    "hi": "मिजाज़ बदलना",
+    "te": "మూడ్ మార్పులు",
+    "ta": "மனநிலை மாற்றங்கள்",
+    "kn": "ಮನೋಭಾವ ಬದಲಾವಣೆ",
+    "es": "Cambios de humor"
+  },
+  "weight_loss": {
+    "en": "Weight Loss",
+    "hi": "वजन घटना",
+    "te": "బరువు తగ్గడం",
+    "ta": "எடை குறைவு",
+    "kn": "ತೂಕ ಇಳಿಕೆ",
+    "es": "Pérdida de peso"
+  },
+  "restlessness": {
+    "en": "Restlessness",
+    "hi": "बेचैनी",
+    "te": "అశాంతి",
+    "ta": "அமைதியின்மை",
+    "kn": "ಅಶಾಂತಿ",
+    "es": "Inquietud"
+  },
+  "lethargy": {
+    "en": "Lethargy",
+    "hi": "सुस्ती",
+    "te": "నిస్సత్తువ",
+    "ta": "சோம்பல்",
+    "kn": "ಸೋಮಾರಿತನ",
+    "es": "Letargo"
+  },
+  "patches_in_throat": {
+    "en": "Patches in Throat",
+    "hi": "गले में छाले",
+    "te": "గొంతులో మచ్చలు",
+    "ta": "தொண்டையில் புள்ளிகள்",
+    "kn": "ಕಂಠದಲ್ಲಿನ ಪ್ಯಾಚ್‌ಗಳು",
+    "es": "Manchas en la garganta"
+  },  "irregular_sugar_level": {
+    "en": "Irregular Sugar Level",
+    "hi": "शुगर का असंतुलन",
+    "te": "చక్కర స్థాయిల లోపం",
+    "ta": "சர்க்கரை அளவு மாற்றம்",
+    "kn": "ಸಕ್ಕರೆ ಮಟ್ಟದ ಅಸ್ಥಿರತೆ",
+    "es": "Nivel de azúcar irregular"
+  },
+  "cough": {
+    "en": "Cough",
+    "hi": "खाँसी",
+    "te": "దగ్గు",
+    "ta": "இருமல்",
+    "kn": "ಕೆಮ್ಮು",
+    "es": "Tos"
+  },
+  "high_fever": {
+    "en": "High Fever",
+    "hi": "तेज़ बुखार",
+    "te": "అధిక జ్వరం",
+    "ta": "உயர் காய்ச்சல்",
+    "kn": "ಹೆಚ್ಚಿನ ಜ್ವರ",
+    "es": "Fiebre alta"
+  },
+  "sunken_eyes": {
+    "en": "Sunken Eyes",
+    "hi": "धंसी हुई आंखें",
+    "te": "కళ్ల లోపం",
+    "ta": "உள்வாங்கிய கண்கள்",
+    "kn": "ಒಳಚಾಲಿದ ಕಣ್ಣುಗಳು",
+    "es": "Ojos hundidos"
+  },
+  "breathlessness": {
+    "en": "Breathlessness",
+    "hi": "सांस लेने में कठिनाई",
+    "te": "శ్వాసలో ఇబ్బంది",
+    "ta": "மூச்சுத்திணறல்",
+    "kn": "ಉಸಿರಾಟದ ತೊಂದರೆ",
+    "es": "Dificultad para respirar"
+  },
+  "sweating": {
+    "en": "Sweating",
+    "hi": "पसीना आना",
+    "te": "చెమట",
+    "ta": "வியர்வை",
+    "kn": "ಬೆವರು",
+    "es": "Sudoración"
+  },
+  "dehydration": {
+    "en": "Dehydration",
+    "hi": "निर्जलीकरण",
+    "te": "నీరు కోల్పోవడం",
+    "ta": "நீரிழப்பு",
+    "kn": "ದೇಹ ನೀರು ಕಡಿಮೆ",
+    "es": "Deshidratación"
+  },
+  "indigestion": {
+    "en": "Indigestion",
+    "hi": "अपच",
+    "te": "అజీర్ణం",
+    "ta": "அஜீரணம்",
+    "kn": "ಅಜೀರ್ಣ",
+    "es": "Indigestión"
+  },
+  "headache": {
+    "en": "Headache",
+    "hi": "सिरदर्द",
+    "te": "తలనొప్పి",
+    "ta": "தலைவலி",
+    "kn": "ತಲೆನೋವು",
+    "es": "Dolor de cabeza"
+  },
+  "yellowish_skin": {
+    "en": "Yellowish Skin",
+    "hi": "पीली त्वचा",
+    "te": "పసుపు రంగు చర్మం",
+    "ta": "மஞ்சள் தோல்",
+    "kn": "ಹಳದಿ ಚರ್ಮ",
+    "es": "Piel amarillenta"
+  },
+  "dark_urine": {
+    "en": "Dark Urine",
+    "hi": "गहरा मूत्र",
+    "te": "ముదురు మూత్రం",
+    "ta": "கரும் சிறுநீர்",
+    "kn": "ಗಾಢ ಮೂತ್ರ",
+    "es": "Orina oscura"
+  },
+  "nausea": {
+    "en": "Nausea",
+    "hi": "मतली",
+    "te": "వికారం",
+    "ta": "வாந்தியுணர்வு",
+    "kn": "ಮಲಬಾಧೆ",
+    "es": "Náusea"
+  },
+  "loss_of_appetite": {
+    "en": "Loss of Appetite",
+    "hi": "भूख न लगना",
+    "te": "ఆహారం కోల్పోవడం",
+    "ta": "பசி இழப்பு",
+    "kn": "ಹಸಿವು ಕಡಿಮೆಯಾಗುವುದು",
+    "es": "Pérdida de apetito"
+  },
+  "pain_behind_the_eyes": {
+    "en": "Pain Behind Eyes",
+    "hi": "आँखों के पीछे दर्द",
+    "te": "కళ్ల వెనుక నొప్పి",
+    "ta": "கண்கள் பின்னால் வலி",
+    "kn": "ಕಣ್ಣು ಹಿಂಭಾಗದ ನೋವು",
+    "es": "Dolor detrás de los ojos"
+  },
+  "back_pain": {
+    "en": "Back Pain",
+    "hi": "पीठ दर्द",
+    "te": "వెన్నునొప్పి",
+    "ta": "முதுகு வலி",
+    "kn": "ಬೆನ್ನುನೋವು",
+    "es": "Dolor de espalda"
+  },
+  "constipation": {
+    "en": "Constipation",
+    "hi": "कब्ज",
+    "te": "మలబద్ధకం",
+    "ta": "மலக்கட்‌டுப் பிரச்சனை",
+    "kn": "ಮಲಬದ್ಧತೆ",
+    "es": "Estreñimiento"
+  },
+  "abdominal_pain": {
+    "en": "Abdominal Pain",
+    "hi": "पेट में दर्द",
+    "te": "ఉదర నొప్పి",
+    "ta": "வயிற்று வலி",
+    "kn": "ಉದರ ನೋವು",
+    "es": "Dolor abdominal"
+  },
+  "diarrhoea": {
+    "en": "Diarrhoea",
+    "hi": "दस्त",
+    "te": "విసర్జన",
+    "ta": "வயிற்தோல்",
+    "kn": "ಜಲೋದರ",
+    "es": "Diarrea"
+  },
+  "mild_fever": {
+    "en": "Mild Fever",
+    "hi": "हल्का बुखार",
+    "te": "తక్కువ జ్వరం",
+    "ta": "சிறிய காய்ச்சல்",
+    "kn": "ಸ್ವಲ್ಪ ಜ್ವರ",
+    "es": "Fiebre leve"
+  },
+  "yellow_urine": {
+    "en": "Yellow Urine",
+    "hi": "पीला मूत्र",
+    "te": "పసుపు మూత్రం",
+    "ta": "மஞ்சள் சிறுநீர்",
+    "kn": "ಹಳದಿ ಮೂತ್ರ",
+    "es": "Orina amarilla"
+  },
+  "yellowing_of_eyes": {
+    "en": "Yellowing of Eyes",
+    "hi": "आंखें पीली होना",
+    "te": "కళ్ల పసుపు అవ్వడం",
+    "ta": "கண்கள் மஞ்சளாக்கம்",
+    "kn": "ಕಣ್ಣುಗಳು ಹಳದಿಯಾಗುವುದು",
+    "es": "Ojos amarillentos"
+  },
+  "acute_liver_failure": {
+    "en": "Acute Liver Failure",
+    "hi": "तीव्र लीवर फेल",
+    "te": "తీవ్రమైన యకృతు వైఫల్యం",
+    "ta": "தீவிர கல்லீரல் செயலிழப்பு",
+    "kn": "ತೀವ್ರ ಯಕೃತ್ತು ವೈಫಲ್ಯ",
+    "es": "Insuficiencia hepática aguda"
+  },
+  "fluid_overload": {
+    "en": "Fluid Overload",
+    "hi": "शरीर में तरल अधिकता",
+    "te": "ద్రవం అధికంగా ఉండటం",
+    "ta": "உடலில் நீர் அதிகரிப்பு",
+    "kn": "ದ್ರವ ಹೆಚ್ಚಳ",
+    "es": "Sobrecarga de líquidos"
+  },
+  "swelling_of_stomach": {
+    "en": "Swelling of Stomach",
+    "hi": "पेट में सूजन",
+    "te": "కడుపు వాపు",
+    "ta": "வயிறு வீக்கம்",
+    "kn": "ಹೊಟ್ಟೆ ಉಬ್ಬರ",
+    "es": "Hinchazón del estómago"
+  }
+,  "swelled_lymph_nodes": {
+    "en": "Swollen Lymph Nodes",
+    "hi": "लसीका ग्रंथियाँ सूजना",
+    "te": "లింఫ్ గ్రంధులు వాపు",
+    "ta": "லிம்ப் கட்டிகள் வீக்கம்",
+    "kn": "ಲಿಂಫ್ ಗುಳ್ಳೆಗಳ ಉಬ್ಬರ",
+    "es": "Ganglios inflamados"
+  },
+  "malaise": {
+    "en": "Malaise",
+    "hi": "अस्वस्थता",
+    "te": "అనారోగ్యం",
+    "ta": "உடல் நலக்குறைவு",
+    "kn": "ಅಸ್ವಸ್ಥತೆ",
+    "es": "Malestar general"
+  },
+  "blurred_and_distorted_vision": {
+    "en": "Blurred and Distorted Vision",
+    "hi": "धुंधली और विकृत दृष्टि",
+    "te": "మసక మరియు వక్రీకృత చూపు",
+    "ta": "மங்கலான மற்றும் வளைந்த பார்வை",
+    "kn": "ಮಸುಕಾದ ಮತ್ತು ವಕ್ರದೃಷ್ಟಿ",
+    "es": "Visión borrosa y distorsionada"
+  },
+  "phlegm": {
+    "en": "Phlegm",
+    "hi": "बलगम",
+    "te": "కఫం",
+    "ta": "சளி",
+    "kn": "ಕಫ",
+    "es": "Flema"
+  },
+  "throat_irritation": {
+    "en": "Throat Irritation",
+    "hi": "गले में जलन",
+    "te": "గొంతు చికాకు",
+    "ta": "தொண்டை எரிச்சல்",
+    "kn": "ಕಂಠದ ಎರೆಸು",
+    "es": "Irritación de garganta"
+  },
+  "redness_of_eyes": {
+    "en": "Redness of Eyes",
+    "hi": "आँखों में लाली",
+    "te": "కళ్ల ఎర్రదనం",
+    "ta": "கண் சிவத்தல்",
+    "kn": "ಕಣ್ಣು ಕೆಂಪಾಗುವುದು",
+    "es": "Ojos rojos"
+  },
+  "sinus_pressure": {
+    "en": "Sinus Pressure",
+    "hi": "साइनस दबाव",
+    "te": "సైనస్ ఒత్తిడి",
+    "ta": "சைனஸ் அழுத்தம்",
+    "kn": "ಸೈನಸ್ ಒತ್ತಡ",
+    "es": "Presión sinusal"
+  },
+  "runny_nose": {
+    "en": "Runny Nose",
+    "hi": "बहती नाक",
+    "te": "ముక్కు కారడం",
+    "ta": "மூக்கில் நீர்வருதல்",
+    "kn": "ಮೂಗು ಕಾರುವುದು",
+    "es": "Nariz que gotea"
+  },
+  "congestion": {
+    "en": "Congestion",
+    "hi": "जाम होना",
+    "te": "దిబ్బడ",
+    "ta": "மூச்சுத்திணறல்",
+    "kn": "ಗುಂಪುಗೂಡುವಿಕೆ",
+    "es": "Congestión"
+  },
+  "chest_pain": {
+    "en": "Chest Pain",
+    "hi": "छाती में दर्द",
+    "te": "ఛాతి నొప్పి",
+    "ta": "மார்பு வலி",
+    "kn": "ಛಾತಿ ನೋವು",
+    "es": "Dolor en el pecho"
+  },
+  "weakness_in_limbs": {
+    "en": "Weakness in Limbs",
+    "hi": "हाथ-पैरों में कमजोरी",
+    "te": "చేతులు కాళ్ళ బలహీనత",
+    "ta": "கைகள் மற்றும் கால்களில் பலவீனம்",
+    "kn": "ಅಂಗಗಳಲ್ಲಿ ಬಲಹೀನತೆ",
+    "es": "Debilidad en extremidades"
+  },
+  "fast_heart_rate": {
+    "en": "Fast Heart Rate",
+    "hi": "दिल की धड़कन तेज",
+    "te": "గుండె వేగంగా కొట్టుకోవడం",
+    "ta": "இதய துடிப்பு அதிகரிப்பு",
+    "kn": "ಹೃದಯಬಡಿತ ವೇಗ",
+    "es": "Ritmo cardíaco acelerado"
+  },
+  "pain_during_bowel_movements": {
+    "en": "Pain During Bowel Movements",
+    "hi": "शौच के दौरान दर्द",
+    "te": "మల విసర్జనలో నొప్పి",
+    "ta": "மலம் கழிக்கும் போது வலி",
+    "kn": "ಮಲವಿಸರ್ಜನೆ ವೇಳೆ ನೋವು",
+    "es": "Dolor al defecar"
+  },
+  "pain_in_anal_region": {
+    "en": "Anal Region Pain",
+    "hi": "गुदा क्षेत्र में दर्द",
+    "te": "మలద్వార ప్రాంత నొప్పి",
+    "ta": "குதநாள் பகுதி வலி",
+    "kn": "ಮಲದ್ವಾರ ನೋವು",
+    "es": "Dolor anal"
+  },
+  "bloody_stool": {
+    "en": "Bloody Stool",
+    "hi": "खूनी मल",
+    "te": "రక్తంతో కూడిన మలం",
+    "ta": "இரத்தத்துடன் மலக்குடல்",
+    "kn": "ರಕ್ತ ಮಲ",
+    "es": "Heces con sangre"
+  },
+  "irritation_in_anus": {
+    "en": "Irritation in Anus",
+    "hi": "गुदा में जलन",
+    "te": "మలద్వారంలో చికాకు",
+    "ta": "குதநாள் எரிச்சல்",
+    "kn": "ಮಲದ್ವಾರ ಕೆರಸು",
+    "es": "Irritación anal"
+  },
+  "neck_pain": {
+    "en": "Neck Pain",
+    "hi": "गर्दन में दर्द",
+    "te": "మెడ నొప్పి",
+    "ta": "கழுத்து வலி",
+    "kn": "ಕುತ್ತಿಗೆಯ ನೋವು",
+    "es": "Dolor de cuello"
+  },
+  "dizziness": {
+    "en": "Dizziness",
+    "hi": "चक्कर आना",
+    "te": "తల తిరగడం",
+    "ta": "தலைச்சுற்றல்",
+    "kn": "ತಲೆಸುತ್ತು",
+    "es": "Mareo"
+  },
+  "cramps": {
+    "en": "Cramps",
+    "hi": "ऐंठन",
+    "te": "అలికిడి",
+    "ta": "முடிச்சு வலி",
+    "kn": "ಕ ಮುಖಾನೋವು",
+    "es": "Calambres"
+  },
+  "bruising": {
+    "en": "Bruising",
+    "hi": "नील पड़ना",
+    "te": "గాయాలు",
+    "ta": "தழும்பு",
+    "kn": "ದಾಗು",
+    "es": "Moretones"
+  },
+  "obesity": {
+    "en": "Obesity",
+    "hi": "मोटापा",
+    "te": "అధిక బరువు",
+    "ta": "கூழ்மை",
+    "kn": "ಜಾಡ್ಯ",
+    "es": "Obesidad"
+  }
+,  "swollen_legs": {
+    "en": "Swollen Legs",
+    "hi": "पैर सूजना",
+    "te": "కాళ్ళ వాపు",
+    "ta": "கால்களில் வீக்கம்",
+    "kn": "ಕಾಲುಗಳ ಉಬ್ಬರ",
+    "es": "Piernas hinchadas"
+  },
+  "swollen_blood_vessels": {
+    "en": "Swollen Blood Vessels",
+    "hi": "सूजी हुई रक्त नलिकाएँ",
+    "te": "రక్తనాళాల వాపు",
+    "ta": "இரத்த நாளங்கள் வீக்கம்",
+    "kn": "ರಕ್ತನಾಳಗಳ ಉಬ್ಬರ",
+    "es": "Vasos sanguíneos inflamados"
+  },
+  "puffy_face_and_eyes": {
+    "en": "Puffy Face and Eyes",
+    "hi": "चेहरा और आँखें सूजी हुई",
+    "te": "ముఖం మరియు కళ్ల వాపు",
+    "ta": "முகம் மற்றும் கண்கள் வீக்கம்",
+    "kn": "ಮುಖ ಮತ್ತು ಕಣ್ಣು ಉಬ್ಬರ",
+    "es": "Cara y ojos hinchados"
+  },
+  "enlarged_thyroid": {
+    "en": "Enlarged Thyroid",
+    "hi": "थायरॉयड बढ़ना",
+    "te": "థైరాయిడ్ వృద్ధి",
+    "ta": "தைராய்டு பெரிதாகுதல்",
+    "kn": "ಥೈರಾಯ್ಡ್ ವೃದ್ಧಿ",
+    "es": "Tiroides agrandada"
+  },
+  "brittle_nails": {
+    "en": "Brittle Nails",
+    "hi": "कमजोर नाखून",
+    "te": "బలహీన గోళ్లు",
+    "ta": "எளிதில் உடையும் நகம்",
+    "kn": "ಬಿರುಕು ಬಿದ್ದ ಗೆರಗಳು",
+    "es": "Uñas frágiles"
+  },
+  "swollen_extremeties": {
+    "en": "Swollen Extremities",
+    "hi": "हाथ-पैर सूजन",
+    "te": "చేతులు, కాళ్లు వాపు",
+    "ta": "கைகள், கால்கள் வீக்கம்",
+    "kn": "ಅಂಗಾಂಶಗಳು ಉಬ್ಬುವಿಕೆ",
+    "es": "Extremidades hinchadas"
+  },
+  "excessive_hunger": {
+    "en": "Excessive Hunger",
+    "hi": "बहुत भूख लगना",
+    "te": "అధిక ఆకలి",
+    "ta": "அதிக பசி",
+    "kn": "ಹೆಚ್ಚಿನ ಹಸಿವು",
+    "es": "Hambre excesiva"
+  },
+  "extra_marital_contacts": {
+    "en": "Extra-Marital Contacts",
+    "hi": "वैवाहिक संबंधों के बाहर संपर्क",
+    "te": "వివాహేతర సంబంధాలు",
+    "ta": "திருமணத்திற்கு வெளியான தொடர்புகள்",
+    "kn": "ವೈವಾಹಿಕ ಹೊರಗಿನ ಸಂಪರ್ಕಗಳು",
+    "es": "Contactos extramaritales"
+  },
+  "drying_and_tingling_lips": {
+    "en": "Drying and Tingling Lips",
+    "hi": "होठों का सूखना व झुनझुनी",
+    "te": "పెదవులు పొడిబారడం మరియు గిరగిరలు",
+    "ta": "உதடுகள் உலர்தல் மற்றும் முள் சுருள்",
+    "kn": "ಒಣ ತುಟಿ ಮತ್ತು ಚುಚ್ಚು",
+    "es": "Labios secos y con hormigueo"
+  },
+  "slurred_speech": {
+    "en": "Slurred Speech",
+    "hi": "तुतलाना",
+    "te": "అస్పష్టమైన మాట్లాడటం",
+    "ta": "தெளிவில்லாத பேச்சு",
+    "kn": "ಸ್ಪಷ್ಟವಾಗದ ಮಾತು",
+    "es": "Habla arrastrada"
+  },
+  "knee_pain": {
+    "en": "Knee Pain",
+    "hi": "घुटने का दर्द",
+    "te": "మోకాలి నొప్పి",
+    "ta": "முடக்குவலி",
+    "kn": "ಮೊಣಕಾಲು ನೋವು",
+    "es": "Dolor de rodilla"
+  },
+  "hip_joint_pain": {
+    "en": "Hip Joint Pain",
+    "hi": "कूल्हे में दर्द",
+    "te": "నితంబ సంధి నొప్పి",
+    "ta": "இடுப்பு மூட்டு வலி",
+    "kn": "ಹೊಟ್ಟೆ ಸಂಧಿ ನೋವು",
+    "es": "Dolor de cadera"
+  },
+  "muscle_weakness": {
+    "en": "Muscle Weakness",
+    "hi": "मांसपेशियों में कमजोरी",
+    "te": "కండరాల బలహీనత",
+    "ta": "தசை பலவீனம்",
+    "kn": "ಸ್ನಾಯು ಬಲಹೀನತೆ",
+    "es": "Debilidad muscular"
+  },
+  "stiff_neck": {
+    "en": "Stiff Neck",
+    "hi": "गर्दन अकड़ना",
+    "te": "మెడ గట్టిపడటం",
+    "ta": "கழுத்து உறைவு",
+    "kn": "ಕತ್ತು ಗಟ್ಟಿಯಾಗುವುದು",
+    "es": "Rigidez de cuello"
+  },
+  "swelling_joints": {
+    "en": "Swelling Joints",
+    "hi": "जोड़ों में सूजन",
+    "te": "కీళ్ల వాపు",
+    "ta": "மூட்டுகளில் வீக்கம்",
+    "kn": "ಸಂಧಿ ಉಬ್ಬರ",
+    "es": "Articulaciones hinchadas"
+  },
+  "movement_stiffness": {
+    "en": "Movement Stiffness",
+    "hi": "हिलने में अकड़न",
+    "te": "కదలికలో గట్టి పట్టు",
+    "ta": "இயக்கத்தில் உறைவு",
+    "kn": "ಚಲನೆ ಗಟ್ಟಿಯಾಗುವುದು",
+    "es": "Rigidez al moverse"
+  },
+  "spinning_movements": {
+    "en": "Spinning Movements",
+    "hi": "घूमना महसूस होना",
+    "te": "తిరిగే భావన",
+    "ta": "சுற்றுவது போல் உணர்வு",
+    "kn": "ಸುತ್ತುವ ಭಾವನೆ",
+    "es": "Sensación de giro"
+  },
+  "loss_of_balance": {
+    "en": "Loss of Balance",
+    "hi": "संतुलन खोना",
+    "te": "సంతులనం కోల్పోవడం",
+    "ta": "சமநிலை இழப்பு",
+    "kn": "ಸಮತೋಲನ ಕಳೆದುಕೊಳ್ಳುವಿಕೆ",
+    "es": "Pérdida del equilibrio"
+  },
+  "unsteadiness": {
+    "en": "Unsteadiness",
+    "hi": "अस्थिरता",
+    "te": "అస్థిరత",
+    "ta": "நிலைமின்மை",
+    "kn": "ನಿಲುವಳಿಕೆಯ ಕೊರತೆ",
+    "es": "Inestabilidad"
+  },
+  "weakness_of_one_body_side": {
+    "en": "Weakness of One Side of Body",
+    "hi": "शरीर के एक हिस्से में कमजोरी",
+    "te": "ఒక వైపు బలహీనత",
+    "ta": "உடலின் ஒரு பக்கம் பலவீனம்",
+    "kn": "ದೇಹದ ಒಂದು ಭಾಗದ ಬಲಹೀನತೆ",
+    "es": "Debilidad en un lado del cuerpo"
+  },
+  "loss_of_smell": {
+    "en": "Loss of Smell",
+    "hi": "गंध न आना",
+    "te": "వాసన రాకపోవడం",
+    "ta": "மணத்தை இழத்தல்",
+    "kn": "ವಾಸನೆಯ ಅರಿವು ಕಳೆದುಕೊಳ್ಳುವುದು",
+    "es": "Pérdida del olfato"
+  },
+  "bladder_discomfort": {
+    "en": "Bladder Discomfort",
+    "hi": "मूत्राशय में असुविधा",
+    "te": "మూత్రాశయం అసౌకర్యం",
+    "ta": "சிறுநீரகம் பகுதியில் அசௌகரியம்",
+    "kn": "ಮೂತ್ರಾಶಯ ಅಸಮಾಧಾನ",
+    "es": "Molestia en la vejiga"
+  }
+,
+  "foul_smell_of_urine": {
+    "en": "Foul Smell of Urine",
+    "hi": "मूत्र में दुर्गंध",
+    "te": "మూత్రం దుర్వాసన",
+    "ta": "சிறுநீரில் துர்நாற்றம்",
+    "kn": "ಮೂತ್ರದ ಕೆಟ್ಟ ವಾಸನೆ",
+    "es": "Mal olor de orina"
+  },
+  "continuous_feel_of_urine": {
+    "en": "Continuous Urge to Urinate",
+    "hi": "बार-बार पेशाब लगना",
+    "te": "తరచుగా మూత్రం వేయాలనిపించడం",
+    "ta": "அடிக்கடி சிறுநீர் கழிக்க வேண்டும் போன்ற உணர்வு",
+    "kn": "ನಿರಂತರ ಮೂತ್ರವಿಸರ್ಜನೆ ಅಗತ್ಯ",
+    "es": "Necesidad frecuente de orinar"
+  },
+  "passage_of_gases": {
+    "en": "Passage of Gases",
+    "hi": "गैस पास होना",
+    "te": "వాయువు విడుదల",
+    "ta": "வாயுக்களம் வெளியேறுதல்",
+    "kn": "ಅಗ್ನಿಯ ವಾಯು ಹೊರಬೀಳುವುದು",
+    "es": "Salida de gases"
+  },
+  "internal_itching": {
+    "en": "Internal Itching",
+    "hi": "अंदरूनी खुजली",
+    "te": "లోపలి దురద",
+    "ta": "உள் அரிப்பு",
+    "kn": "ಆಂತರಿಕ ಕೆರವು",
+    "es": "Picazón interna"
+  },
+  "toxic_look_typhos": {
+    "en": "Toxic Look (Typhoid-like)",
+    "hi": "बीमारी जैसा चेहरा",
+    "te": "అనారోగ్య స్వభావం",
+    "ta": "நச்சுத் தோற்றம்",
+    "kn": "ಅನಾರೋಗ್ಯದ ಮುಖ",
+    "es": "Apariencia tóxica"
+  },
+  "depression": {
+    "en": "Depression",
+    "hi": "अवसाद",
+    "te": "నిరుత్సాహం",
+    "ta": "மனச்சோர்வு",
+    "kn": "ಮನೋವ್ಯಾಧಿ",
+    "es": "Depresión"
+  },
+  "irritability": {
+    "en": "Irritability",
+    "hi": "चिड़चिड़ापन",
+    "te": "చికాకు",
+    "ta": "எரிச்சல்",
+    "kn": "ಚಿಡಚಿಡತನ",
+    "es": "Irritabilidad"
+  },
+  "muscle_pain": {
+    "en": "Muscle Pain",
+    "hi": "मांसपेशियों में दर्द",
+    "te": "కండరాల నొప్పి",
+    "ta": "தசை வலி",
+    "kn": "ಸ್ನಾಯು ನೋವು",
+    "es": "Dolor muscular"
+  },
+  "altered_sensorium": {
+    "en": "Altered Sensorium",
+    "hi": "चेतना में परिवर्तन",
+    "te": "స్పృహలో మార్పు",
+    "ta": "உணர்வு மாற்றம்",
+    "kn": "ಸ್ಪಂದನ ಬದಲಾವಣೆ",
+    "es": "Sensorio alterado"
+  },
+  "red_spots_over_body": {
+    "en": "Red Spots Over Body",
+    "hi": "शरीर पर लाल दाने",
+    "te": "శరీరంపై ఎరుపు మచ్చలు",
+    "ta": "உடலின் மீது சிவப்பு புள்ளிகள்",
+    "kn": "ದೇಹದ ಮೇಲೆ ಕೆಂಪು ಮಚ್ಚೆಗಳು",
+    "es": "Manchas rojas en el cuerpo"
+  },
+  "belly_pain": {
+    "en": "Belly Pain",
+    "hi": "पेट में दर्द",
+    "te": "కడుపునొప్పి",
+    "ta": "வயிற்று வலி",
+    "kn": "ಹೊಟ್ಟೆ ನೋವು",
+    "es": "Dolor de vientre"
+  },
+  "abnormal_menstruation": {
+    "en": "Abnormal Menstruation",
+    "hi": "अनियमित मासिक धर्म",
+    "te": "అసాధారణ రుతుస్రావం",
+    "ta": "அசாதாரண மாதவிடாய்",
+    "kn": "ಅಸಾಮಾನ್ಯ ঋತು",
+    "es": "Menstruación anormal"
+  },
+  "dischromic_patches": {
+    "en": "Dischromic Patches",
+    "hi": "त्वचा पर रंग बदलना",
+    "te": "చర్మంపై రంగు మార్పు",
+    "ta": "தோலில் நிற மாற்றம்",
+    "kn": "ಚರ್ಮದ ಬಣ್ಣ ಬದಲಾವಣೆ",
+    "es": "Manchas decoloradas"
+  },
+  "watering_from_eyes": {
+    "en": "Watering from Eyes",
+    "hi": "आंखों से पानी आना",
+    "te": "కళ్ళలో నీళ్లు రావడం",
+    "ta": "கண்களில் நீர் வருதல்",
+    "kn": "ಕಣ್ಣು ನೀರುಗಟ್ಟುವುದು",
+    "es": "Lagrimeo"
+  },
+  "increased_appetite": {
+    "en": "Increased Appetite",
+    "hi": "भूख बढ़ना",
+    "te": "ఆకలి పెరగడం",
+    "ta": "பசி அதிகரிப்பு",
+    "kn": "ಹಸಿವು ಹೆಚ್ಚವುದು",
+    "es": "Aumento del apetito"
+  }
+,  "polyuria": {
+    "en": "Polyuria",
+    "hi": "अधिक मूत्र त्याग",
+    "te": "అధిక మూత్ర విసర్జన",
+    "ta": "அதிக சிறுநீர் கழித்தல்",
+    "kn": "ಅತಿಯಾದ ಮೂತ್ರವಿಸರ್ಜನೆ",
+    "es": "Poliuria"
+  },
+  "family_history": {
+    "en": "Family History",
+    "hi": "पारिवारिक इतिहास",
+    "te": "కుటుంబ చరిత్ర",
+    "ta": "குடும்ப வரலாறு",
+    "kn": "ಕುಟುಂಬ ಇತಿಹಾಸ",
+    "es": "Historial familiar"
+  },
+  "mucoid_sputum": {
+    "en": "Mucoid Sputum",
+    "hi": "बलगमयुक्त कफ",
+    "te": "మ్యూకస్ కలిగిన కఫం",
+    "ta": "சளி கலந்து இருமல்",
+    "kn": "ಶ್ಲೇಷ್ಮಯುಕ್ತ ಕಫ",
+    "es": "Esputo mucoso"
+  },
+  "rusty_sputum": {
+    "en": "Rusty Sputum",
+    "hi": "जंग जैसा कफ",
+    "te": "రంగు మారిన కఫం",
+    "ta": "சிவப்பு நிற சளி",
+    "kn": "ಕಂದು-ಕೆಂಪು ಕಫ",
+    "es": "Esputo rojizo"
+  },
+  "lack_of_concentration": {
+    "en": "Lack of Concentration",
+    "hi": "ध्यान न लगना",
+    "te": "ఏకాగ్రత లోపం",
+    "ta": "கவனம் குறைவு",
+    "kn": "ಗಮನಾಭಾವ",
+    "es": "Falta de concentración"
+  },
+  "visual_disturbances": {
+    "en": "Visual Disturbances",
+    "hi": "दृष्टि संबंधी समस्या",
+    "te": "చూపు లోపం",
+    "ta": "பார்வை கோளாறு",
+    "kn": "ದೃಷ್ಟಿ ತೊಂದರೆ",
+    "es": "Alteraciones visuales"
+  },
+  "receiving_blood_transfusion": {
+    "en": "Receiving Blood Transfusion",
+    "hi": "रक्त चढ़ाना",
+    "te": "రక్త మార్పిడి పొందడం",
+    "ta": "இரத்த மாற்று பெறுதல்",
+    "kn": "ರಕ್ತ ಸಿಂಪಡಿಸಿಕೊಳ್ಳುವುದು",
+    "es": "Recibiendo transfusión de sangre"
+  },
+  "receiving_unsterile_injections": {
+    "en": "Receiving Unsterile Injections",
+    "hi": "अस्वच्छ इंजेक्शन लगवाना",
+    "te": "అశుభ్రమైన ఇంజెక్షన్స్ తీసుకోవడం",
+    "ta": "சுத்தமற்ற ஊசிகள் பெறுதல்",
+    "kn": "ಅಶುದ್ಧ ಇಂಜೆಕ್ಷನ್ ಪಡೆಯುವುದು",
+    "es": "Recibiendo inyecciones no estériles"
+  },
+  "coma": {
+    "en": "Coma",
+    "hi": "कोमा",
+    "te": "కోమా",
+    "ta": "கோமா",
+    "kn": "ಕೋಮಾ",
+    "es": "Coma"
+  },
+  "stomach_bleeding": {
+    "en": "Stomach Bleeding",
+    "hi": "पेट में रक्तस्राव",
+    "te": "కడుపు రక్తస్రావం",
+    "ta": "வயிற்றில் இரத்தப்போக்கு",
+    "kn": "ಹೊಟ್ಟೆ ರಕ್ತಸ್ರಾವ",
+    "es": "Sangrado estomacal"
+  },
+  "distention_of_abdomen": {
+    "en": "Distended Abdomen",
+    "hi": "पेट फूलना",
+    "te": "కడుపు ఉబ్బరం",
+    "ta": "வயிறு பெரிதாகுதல்",
+    "kn": "ಉದರ ವಿಸ್ತರಣೆ",
+    "es": "Distensión abdominal"
+  },
+  "history_of_alcohol_consumption": {
+    "en": "History of Alcohol Consumption",
+    "hi": "शराब पीने का इतिहास",
+    "te": "మద్యం సేవించిన చరిత్ర",
+    "ta": "மது அருந்திய வரலாறு",
+    "kn": "ಮದ್ಯಪಾನದ ಇತಿಹಾಸ",
+    "es": "Historial de alcohol"
+  },
+  "fluid_overload_1": {
+    "en": "Fluid Overload (Type 2)",
+    "hi": "तरल अधिकता 2",
+    "te": "ద్రవం అధికం 2",
+    "ta": "உடலில் நீர் அதிகரிப்பு 2",
+    "kn": "ದ್ರವ ಹೆಚ್ಚಳ 2",
+    "es": "Exceso de líquidos 2"
+  },
+  "blood_in_sputum": {
+    "en": "Blood in Sputum",
+    "hi": "कफ में खून",
+    "te": "కఫంలో రక్తం",
+    "ta": "சளியில் இரத்தம்",
+    "kn": "ಕಫದಲ್ಲಿ ರಕ್ತ",
+    "es": "Sangre en esputo"
+  },
+  "prominent_veins_on_calf": {
+    "en": "Prominent Veins on Calf",
+    "hi": "पिंडली में नसें उभरना",
+    "te": "కాలి కండరాల నరాలు",
+    "ta": "காலில் நரம்புகள் தெளிவாக",
+    "kn": "ಕಾಲಿನ ಶಿರೆಗಳು",
+    "es": "Venas prominentes"
+  },
+  "palpitations": {
+    "en": "Palpitations",
+    "hi": "दिल की धड़कन तेज होना",
+    "te": "గుండె దడ",
+    "ta": "இதய துடிப்பு",
+    "kn": "ಹೃದಯದ ತಡೆ",
+    "es": "Palpitaciones"
+  },
+  "painful_walking": {
+    "en": "Painful Walking",
+    "hi": "चलते समय दर्द",
+    "te": "నడకలో నొప్పి",
+    "ta": "நடக்கும் போது வலி",
+    "kn": "ನಡೆಯುವಾಗ ನೋವು",
+    "es": "Dolor al caminar"
+  },
+  "pus_filled_pimples": {
+    "en": "Pus Filled Pimples",
+    "hi": "मवाद वाले दाने",
+    "te": "పుస్‌తో నిండిన పిమ్ములు",
+    "ta": "பூளை நிரம்பிய முகப்பரு",
+    "kn": "ಪುರುಣು ತುಂಬಿದ ಮೊಡವೆ",
+    "es": "Espinillas con pus"
+  },
+  "blackheads": {
+    "en": "Blackheads",
+    "hi": "ब्लैकहेड्स",
+    "te": "నల్ల మచ్చలు",
+    "ta": "கரும்புள்ளிகள்",
+    "kn": "ಕಪ್ಪುಮಚ್ಚೆಗಳು",
+    "es": "Puntos negros"
+  },
+  "scurring": {
+    "en": "Scarring",
+    "hi": "दाग पड़ना",
+    "te": "మచ్చలు రావడం",
+    "ta": "மாசு / காயம்",
+    "kn": "ಗುರುತು",
+    "es": "Cicatrices"
+  },
+  "skin_peeling": {
+    "en": "Skin Peeling",
+    "hi": "त्वचा छिलना",
+    "te": "చర్మం ఊడడం",
+    "ta": "தோல் உரிதல்",
+    "kn": "ಚರ್ಮ ಬಿಚ್ಚುವುದು",
+    "es": "Descamación"
+  },
+  "silver_like_dusting": {
+    "en": "Silver-like Dusting",
+    "hi": "चांदी जैसी परतें",
+    "te": "వెండి పూసుల పొర",
+    "ta": "வெள்ளி தூள்",
+    "kn": "ಬೆಳ್ಳಿಯಂತಹ ಧೂಳು",
+    "es": "Polvo plateado"
+  },
+  "small_dents_in_nails": {
+    "en": "Small Dents in Nails",
+    "hi": "नाखूनों में गड्ढे",
+    "te": "గోళ్ళలో చిన్న గుంతలు",
+    "ta": "நகங்களில் குழிவுகள்",
+    "kn": "ಗೊಂಚಲುಗಳಲ್ಲಿ ಸಣ್ಣ ಕುಳಿಗಳು",
+    "es": "Hoyuelos en uñas"
+  },
+  "inflammatory_nails": {
+    "en": "Inflammatory Nails",
+    "hi": "सूजे हुए नाखून",
+    "te": "వాపు ఉన్న గోళ్లు",
+    "ta": "வீங்கிய நகங்கள்",
+    "kn": "ಸೋಂಕಿನ ಗೆರಗಳು",
+    "es": "Uñas inflamadas"
+  },
+  "blister": {
+    "en": "Blister",
+    "hi": "छाला",
+    "te": "పుంటి",
+    "ta": "நீர்க்கட்டி",
+    "kn": "ಹುಣ್ಣು",
+    "es": "Ampolla"
+  },
+  "red_sore_around_nose": {
+    "en": "Red Sore Around Nose",
+    "hi": "नाक के पास लाल घाव",
+    "te": "ముక్కు దగ్గర ఎరుపు గాయం",
+    "ta": "மூக்கைச் சுற்றி சிவப்பு புண்",
+    "kn": "ಮೂಗಿನ ಸುತ್ತ ಕೆಂಪು ಗಾಯ",
+    "es": "Llaga roja alrededor de la nariz"
+  },
+  "yellow_crust_ooze": {
+    "en": "Yellow Crust Oozing",
+    "hi": "पीली पपड़ी का स्राव",
+    "te": "పసుపు పొర కారడం",
+    "ta": "மஞ்சள் சத்து வடிதல்",
+    "kn": "ಹಳದಿ ಮೇಲ್ಚೆಲ್ಲು ಸ್ರಾವ",
+    "es": "Costra amarilla supurante"
+  }
+}

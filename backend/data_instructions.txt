@@ -1,0 +1,3 @@
+Place your dataset CSV here as 'dataset.csv' in this folder.
+Recommended dataset (Kaggle): 'disease-prediction-using-machine-learning' (132 features + prognosis).
+If your CSV uses a different target column name, edit train.py to select the correct label.
