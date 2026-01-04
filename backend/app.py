@@ -13,7 +13,8 @@ MODEL_FILE = "model.pkl"             #random forest
 SYMPTOMS_FILE = "symptoms.json"
 #AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w
 # Initialize Gemini GenAI client
-client = genai.Client(api_key="AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w")
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+#client = genai.Client(api_key="AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w")
 #AIzaSyCeuW_qyqPaTh166YhnZkbnrDGlTD3UVoY
 # ---------- LOAD MODEL ----------
 model = joblib.load(MODEL_FILE) if os.path.exists(MODEL_FILE) else None
