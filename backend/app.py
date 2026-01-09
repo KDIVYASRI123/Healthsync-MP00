@@ -1,11 +1,9 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import joblib, json, numpy as np, os, requests
-import google.generativeai as genai
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-
-# Import new Google GenAI package
-# from google import genai
+#import google.generativeai as genai
+#genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+from google import genai
 
 app = Flask(__name__)
 CORS(app)
@@ -16,8 +14,8 @@ SYMPTOMS_FILE = "symptoms.json"
 #AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w
 # Initialize Gemini GenAI client
 #client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-#client = genai.Client(api_key="AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w")
-#AIzaSyCeuW_qyqPaTh166YhnZkbnrDGlTD3UVoY
+client = genai.Client(api_key="AIzaSyCeuW_qyqPaTh166YhnZkbnrDGlTD3UVoY")
+#    AIzaSyAO4C6FON-KqIq02dloXPlorIfTWiPFs1w
 # ---------- LOAD MODEL ----------
 model = joblib.load(MODEL_FILE) if os.path.exists(MODEL_FILE) else None
 DISEASE_SPECIALITY_MAP = {
@@ -315,8 +313,8 @@ def hospitals():
 
 
 
-# if __name__ == "__main__":
-#     app.run(debug=True, port=5000)
+if __name__ == "__main__":
+	app.run(debug=True, port=5000)
 
 
 
