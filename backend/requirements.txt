@@ -3,8 +3,8 @@ scikit-learn
 pandas
 numpy
 joblib
-gunicorn
 flask-cors
+gunicorn
 requests
 google-genai
-
+google-generativeai
